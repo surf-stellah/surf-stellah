@@ -1,11 +1,11 @@
 # Hey, I'm Stellah Mukami <img src="code.gif" width="150" height="90">
 
 
-### I'm a cyber security nerd, currently knee-deep in my studies. Network security is my jam and I love to participate in CTFs and write-up my solutions. When I'm not securing networks, or doing CTF writeups, you can find me coding up a storm or geeking out over the latest tech developments.
+ I'm a cyber security nerd, currently knee-deep in my studies. Network security is my jam and I love to participate in CTFs and write-up my solutions. When I'm not securing networks, or doing CTF writeups, you can find me coding up a storm or geeking out over the latest tech developments.
 
 <br>
 
-### I hold a Bachelor's degree in Information Security and Forensics, because who says nerding out over tech can't be a formal education? My degree is like a badge of honor for all my cyber-conquests.
+ I hold a Bachelor's degree in Information Security and Forensics, because who says nerding out over tech can't be a formal education? My degree is like a badge of honor for all my cyber-conquests.
 
 <br>
 
