@@ -1,4 +1,4 @@
-# Hey, I'm Stellah Mukami <img src="code.gif" width="150" height="90">
+# Hey, I'm Stellah Mukami👋👩‍💻
 
 
  I'm a cyber security nerd, currently knee-deep in my studies. Network security is my jam and I love to participate in CTFs and write-up my solutions. When I'm not securing networks, or doing CTF writeups, you can find me coding up a storm or geeking out over the latest tech developments.
